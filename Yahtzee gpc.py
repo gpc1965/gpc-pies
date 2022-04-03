@@ -16,8 +16,7 @@ while True:
     
     if (dado1 == dado2 and dado2 == dado3 and dado3 == dado4 and dado4 == dado5):
         yat = yat + 1
-        print("
-              !  (of",dado1,
+        print("!  (of",dado1,
               "'s)",
               "\n",
               "it took you",
